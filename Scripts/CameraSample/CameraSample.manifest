@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"Circles currently selected model"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
