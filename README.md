@@ -15,4 +15,4 @@ Create an Add-In in fusion, edit and copy in code from relevant Fusion Add-In fi
 
 1 Hand Orbit:  Use 1 hands to navigate the model, with the vertical distance between hand and controller controlling the zoom and roll and yaw of the hand controlling roll and yaw of the model respectively.
 
-Box, Cylinder and Sphere: When the Add-In is run, an initial shape is generated. Pinch both hands and the dimensions of the body will be controlled by the coordinates of the hand. Once the body is in the disired position, release the pinch gesture and the body will turn green. The Add-In will be terminated and can be run again to generate another body
+Box, Cylinder and Sphere: When the Add-In is run, an initial shape is generated. Make a pinch gesture with both hands and the dimensions of the body will be controlled by the coordinates of the hand. Once the body is in the disired position, release the pinch gesture and the body will turn green. The Add-In will be terminated and can be run again to generate another body
